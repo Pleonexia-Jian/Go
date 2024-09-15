@@ -14,7 +14,7 @@
 }
 .flex-container > .ghost-div {
     height: 0;
-    flex: 1 0 700px
+    flex: 1 0 800px
 }
 
 .buttons {
@@ -32,7 +32,8 @@
     }
     .flex-container > .sizeButtons {
         margin-top: 900px;
-        flex-grow: 8;
+        flex-grow: 5;
+        flex-shrink: 8;
     }
 }
 
