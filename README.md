@@ -17,5 +17,8 @@ i dont even know how im supposed to identify seki in the first place.
 
 ![Image of a Seki](image.png)
 ![correct resolution of that seki](image-1.png)
+![image](https://github.com/user-attachments/assets/f070eb86-2706-44af-8184-da44883b62d0)
+![image](https://github.com/user-attachments/assets/4c096f81-23f0-4ef1-9c37-683f5c494d6f)
 
 Computer
+
